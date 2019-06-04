@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPX1117M3-L-3-3_TR
+D LDO Voltage Regulators 800mALOW DROPOUT
+K
+F https://componentsearchengine.com/Datasheets/1/SPX1117M3-L-3-3_TR.pdf
+$ENDCMP
+#
+#End Doc Library

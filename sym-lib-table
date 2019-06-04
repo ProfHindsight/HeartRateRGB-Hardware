@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name SPX1117M3-L-3-3_TR)(type Legacy)(uri ${KIPRJMOD}/Components/SPX1117M3-L-3-3_TR.lib)(options "")(descr ""))
+  (lib (name STM32F030K6T6TR)(type Legacy)(uri ${KIPRJMOD}/Components/STM32F030K6T6TR.lib)(options "")(descr ""))
+  (lib (name TSM320N03CX)(type Legacy)(uri ${KIPRJMOD}/Components/TSM320N03CX.lib)(options "")(descr ""))
+  (lib (name TSM850N06CX)(type Legacy)(uri ${KIPRJMOD}/Components/TSM850N06CX.lib)(options "")(descr ""))
+  (lib (name leddriver-cache)(type Legacy)(uri ${KIPRJMOD}/leddriver-cache.lib)(options "")(descr ""))
+  (lib (name 150080VS75000)(type Legacy)(uri ${KIPRJMOD}/Components/150080VS75000.lib)(options "")(descr ""))
+  (lib (name leddriver-rescue)(type Legacy)(uri ${KIPRJMOD}/leddriver-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSM850N06CX
+D MOSFET 60V N Channel Power Mosfet
+K
+F https://www.taiwansemi.com/products/datasheet/TSM850N06CX_B1607.pdf
+$ENDCMP
+#
+#End Doc Library

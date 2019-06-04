@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSM320N03CX
+D MOSFET 30V, 5.3A, Single N-Channel Power MOSFET
+K
+F https://componentsearchengine.com/Datasheets/1/TSM320N03CX.pdf
+$ENDCMP
+#
+#End Doc Library

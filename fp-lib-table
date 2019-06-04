@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Custom)(type KiCad)(uri "$(KIPRJMOD)/Custom.pretty")(options "")(descr ""))
+  (lib (name SPX1117M3-L-3-3_TR)(type Legacy)(uri ${KIPRJMOD}/Components/SPX1117M3-L-3-3_TR.mod)(options "")(descr ""))
+  (lib (name STM32F030K6T6TR)(type Legacy)(uri ${KIPRJMOD}/Components/STM32F030K6T6TR.mod)(options "")(descr ""))
+  (lib (name TSM320N03CX)(type Legacy)(uri ${KIPRJMOD}/Components/TSM320N03CX.mod)(options "")(descr ""))
+  (lib (name TSM850N06CX)(type Legacy)(uri ${KIPRJMOD}/Components/TSM850N06CX.mod)(options "")(descr ""))
+)
